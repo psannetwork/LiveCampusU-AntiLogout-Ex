@@ -10,6 +10,9 @@ LiveCampusUのセッション維持を目的としたChrome拡張機能です。
 
 以下の手順でインストールしてください（ChromeおよびMicrosoft Edgeに対応しています）。
 
+### 0. 拡張機能のダウンロード
+まず、[GitHubのReleasesページ](https://github.com/psannetwork/LiveCampusU-AntiLogout-Ex/releases)から最新の `LiveCampusU-AntiLogout-Ex.zip` をダウンロードし、ファイルを解凍してください。
+
 ### 1. 拡張機能管理ページを開く
 Chromeのアドレスバーに `chrome://extensions` と入力してエンターキーを押し、拡張機能管理ページを開きます。
 
@@ -24,7 +27,7 @@ Chromeのアドレスバーに `chrome://extensions` と入力してエンター
 ![デベロッパーモードON](imgs/devbuttom.png)
 
 ### 2. 拡張機能を読み込む
-「パッケージ化されていない拡張機能を読み込む」ボタンをクリックし、本プロジェクトのフォルダを選択してください。
+「パッケージ化されていない拡張機能を読み込む」ボタンをクリックし、ダウンロード・解凍したフォルダを選択してください。
 
 ![フォルダ選択](imgs/import_ex.png)
 
