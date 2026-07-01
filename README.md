@@ -1,12 +1,14 @@
 # LiveCampusU Session Keeper
 
+Developed by [psannetwork](https://github.com/psannetwork)
+
 LiveCampusUのセッション維持を目的としたChrome拡張機能です。
 
 ---
 
 ## セットアップ方法
 
-以下の手順でChromeにインストールしてください。
+以下の手順でインストールしてください（ChromeおよびMicrosoft Edgeに対応しています）。
 
 ### 1. 拡張機能管理ページを開く
 Chromeのアドレスバーに `chrome://extensions` と入力してエンターキーを押し、拡張機能管理ページを開きます。
@@ -36,5 +38,3 @@ Chromeのアドレスバーに `chrome://extensions` と入力してエンター
 ## 注意事項
 
 本拡張機能は対象サイト（LiveCampusU）の仕様に基づいて動作します。そのため、**サイト側の仕様や構造が変更された場合、本拡張機能が正常に動作しなくなる可能性がある**ことをあらかじめご了承ください。
-# LiveCampusU-AntiLogout-Ex
-# LiveCampusU-AntiLogout-Ex
