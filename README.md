@@ -2,7 +2,7 @@
 
 Developed by [psannetwork](https://github.com/psannetwork)
 
-LiveCampusUのセッション維持を目的としたChrome拡張機能です。
+静岡大学 LiveCampusU サイト のセッション維持を目的としたChrome拡張機能です。
 
 ---
 
